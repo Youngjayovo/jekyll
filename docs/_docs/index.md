@@ -1,5 +1,5 @@
 ---
-title: Quickstart
+title: Jaylan
 permalink: /docs/
 redirect_from:
   - /docs/home/
